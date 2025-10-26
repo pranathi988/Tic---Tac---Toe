@@ -62,7 +62,9 @@ Play, learn, and see how AI makes strategic decisions in real time! 💡
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/tic-tac-toe-ai.git
+git clone https://github.com/pranathi988/Tic---Tac---Toe.git
+
+
 ```
 
 2️⃣ Navigate to the folder:
