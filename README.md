@@ -192,9 +192,9 @@ Special thanks to:
 Reach out and share your thoughts!
 
 📧 **Email:** *[pranathibuddepu9@gmail.com]*
-🌐 **GitHub:**(https://github.com/your-username)
-💼 **LinkedIn:** (https://linkedin.com/in/yourprofile)
-
+🌐 **GitHub:**(https://github.com/pranathi988)
+💼 **LinkedIn:** 
+(https://www.linkedin.com/in/buddepu-pranathi-2100912a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ---
 
 ### ⭐ *If you liked this project, don’t forget to star the repo!* ⭐
